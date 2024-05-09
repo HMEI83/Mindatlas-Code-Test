@@ -49,7 +49,7 @@ LEFT JOIN
 
 # PHP Code Test
 
-This task involves setting up a User Data Management System using PHP and MySQL. Follow the steps below to configure and run the system:
+This task involves setting up a system using PHP and MySQL. Follow the steps below to configure and run the system:
 
 ## Prerequisites
 
